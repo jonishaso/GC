@@ -14,11 +14,11 @@ namespace WindowsFormsApplication1
         [STAThread]
         static void Main()
         {
-            emailWatcher e = new emailWatcher("E:/Documents/programming/books");
+            //emailWatcher e = new emailWatcher("C:/Users/manlyptops.com/Desktop/testing/emailsaving");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
            
-            Application.Run(new Form1(e));
+            Application.Run(new Form1(new sql()));
         }
     }
 }

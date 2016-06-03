@@ -7,36 +7,44 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 
 namespace WindowsFormsApplication1
 {
     public partial class Form1 : Form
     {
-        emailWatcher newestMail;
-
-        public Form1(emailWatcher em)
+        sql dbConn;
+        public Form1(sql conn)
         {
-            newestMail = em;
+            dbConn = conn;                  
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
-            newestMail.FreshEmail();
-            //textBox1.Text = newestMail.lastEmail.fromAddress;
-            textBox1.Text = "adfdsfsdafasfadfasf";
+            // TODO: This line of code loads data into the 'kKDataSet.users' table. You can move, or remove it, as needed.
+            this.usersTableAdapter.Fill(this.kKDataSet.users);          
+        }
+
+        private void addBtt_click(object sender, EventArgs e)
+        {
+
+            new Form2(dbConn);
             
         }
 
-        private void freshEmail_Click(object sender, EventArgs e)
+        private void deleteBtt_click(object sender, EventArgs e)
         {
-            //List<string> hh = new List<string>();
+            foreach (DataGridViewRow  i in dataGridView1.SelectedRows)
+            {
+                dbConn.deleteRow( i.Cells[1].Value.ToString());
+            }
+            dataGridView1.DataSource = dbConn.selectRow(3).Tables["users"];          
+        }
 
-            //hh.Add("123");
-            //hh.Add("456");
-            //hh.Add("789");
-            //lbox.DataSource = hh;
-            //lbox.DataSource = newestMail.lastTenEmail;
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

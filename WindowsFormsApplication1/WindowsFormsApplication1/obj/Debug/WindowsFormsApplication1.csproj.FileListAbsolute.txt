@@ -7,3 +7,15 @@ C:\Users\jonis\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Deb
 C:\Users\jonis\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\Users\jonis\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\jonis\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\manlyptops.com\Desktop\gittesting\C_Sharp\C_Sharp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\manlyptops.com\Desktop\gittesting\C_Sharp\C_Sharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\manlyptops.com\Desktop\gittesting\C_Sharp\C_Sharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\manlyptops.com\Desktop\gittesting\C_Sharp\C_Sharp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\manlyptops.com\Desktop\gittesting\C_Sharp\C_Sharp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\manlyptops.com\Desktop\gittesting\C_Sharp\C_Sharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\manlyptops.com\Desktop\gittesting\C_Sharp\C_Sharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\manlyptops.com\Desktop\gittesting\C_Sharp\C_Sharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\manlyptops.com\Desktop\gittesting\C_Sharp\C_Sharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\manlyptops.com\Desktop\gittesting\C_Sharp\C_Sharp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\manlyptops.com\Desktop\gittesting\C_Sharp\C_Sharp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\manlyptops.com\Desktop\gittesting\C_Sharp\C_Sharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
