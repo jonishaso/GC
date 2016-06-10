@@ -1,0 +1,8 @@
+Base Exception Type: System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort()
+   at NetworkCommsDotNet.CommsThreadPool.EndShutdown(Int32 threadShutdownTimeoutMS)
+
+Stack Trace:    at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort()
+   at NetworkCommsDotNet.CommsThreadPool.EndShutdown(Int32 threadShutdownTimeoutMS)

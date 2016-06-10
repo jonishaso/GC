@@ -1,0 +1,304 @@
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\SmartPTT_API.exe.config
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\ClientApi.config
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\x64\Asio.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\x64\BVCodec.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\x64\lame_enc.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\x64\Setup.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\x86\Asio.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\x86\BVCodec.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\x86\lame_enc.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\x86\Setup.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\SmartPTT_API.exe
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\SmartPTT_API.pdb
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\ATSRelay.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\Audio.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\AudioConfig.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\ClientApi.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\Common.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\GZipEncoder.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\NetworkCommsDotNetComplete.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\VoCoders.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\NSpeex.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\Setup.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\BVCodec.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\NLog.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\Asio.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\License.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\ATSRelay.pdb
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\Audio.pdb
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\ClientApi.pdb
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\Common.pdb
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\bin\Release\NLog.xml
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\obj\x86\Release\MessengerServer.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\obj\x86\Release\SmartPTT_API.AddUser.resources
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\obj\x86\Release\SmartPTT_API.DeleteUI.resources
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\obj\x86\Release\SmartPTT_API.LoadForm.resources
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\obj\x86\Release\SmartPTT_API.MainForm.resources
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\obj\x86\Release\SmartPTT_API.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\obj\x86\Release\MessengerServer.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\obj\x86\Release\SmartPTT_API.exe
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\obj\x86\Release\SmartPTT_API.pdb
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\SmartPTT_API.exe.config
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\obj\x86\Release\SmartPTT_API.exe
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\obj\x86\Release\SmartPTT_API.pdb
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\ClientApi.config
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\x64\Asio.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\x64\BVCodec.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\x64\lame_enc.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\x64\Setup.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\x86\Asio.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\x86\BVCodec.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\x86\lame_enc.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\x86\Setup.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\SmartPTT_API.exe
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\SmartPTT_API.pdb
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\ATSRelay.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\Audio.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\AudioConfig.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\ClientApi.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\Common.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\GZipEncoder.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\NetworkCommsDotNetComplete.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\VoCoders.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\NSpeex.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\Setup.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\BVCodec.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\NLog.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\Asio.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\License.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\ATSRelay.pdb
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\Audio.pdb
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\ClientApi.pdb
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\Common.pdb
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\bin\Release\NLog.xml
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\obj\x86\Release\MessengerServer.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\obj\x86\Release\SmartPTT_API.AddUser.resources
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\obj\x86\Release\SmartPTT_API.DeleteUI.resources
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\obj\x86\Release\SmartPTT_API.LoadForm.resources
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\obj\x86\Release\SmartPTT_API.MainForm.resources
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\obj\x86\Release\SmartPTT_API.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\obj\x86\Release\SmartPTT_API.SQLTest.resources
+C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP SQL version 2\Oringinal -Test Ian Version - Server Version\obj\x86\Release\MessengerServer.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\SmartPTT_API.exe.config
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\obj\x86\Release\SmartPTT_API.exe
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\obj\x86\Release\SmartPTT_API.pdb
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\ClientApi.config
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\x64\Asio.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\x64\BVCodec.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\x64\lame_enc.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\x64\Setup.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\x86\Asio.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\x86\BVCodec.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\x86\lame_enc.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\x86\Setup.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\SmartPTT_API.exe
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\SmartPTT_API.pdb
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\ATSRelay.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\Audio.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\AudioConfig.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\ClientApi.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\Common.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\GZipEncoder.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\NetworkCommsDotNetComplete.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\VoCoders.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\NSpeex.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\Setup.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\BVCodec.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\NLog.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\Asio.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\License.dll
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\ATSRelay.pdb
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\Audio.pdb
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\ClientApi.pdb
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\Common.pdb
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\bin\Release\NLog.xml
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\obj\x86\Release\MessengerServer.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\obj\x86\Release\SmartPTT_API.AddUser.resources
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\obj\x86\Release\SmartPTT_API.DeleteUI.resources
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\obj\x86\Release\SmartPTT_API.LoadForm.resources
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\obj\x86\Release\SmartPTT_API.MainForm.resources
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\obj\x86\Release\SmartPTT_API.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\obj\x86\Release\SmartPTT_API.SQLTest.resources
+C:\Users\Lenovo\Desktop\Ian's Work\Ian's Work References\Gold Coast Messenger GUI (Current Project)\Server Version\obj\x86\Release\MessengerServer.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\SmartPTT_API.exe.config
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\obj\x86\Release\SmartPTT_API.exe
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\obj\x86\Release\SmartPTT_API.pdb
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\obj\x86\Release\MessengerServer.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\obj\x86\Release\SmartPTT_API.AddUser.resources
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\obj\x86\Release\SmartPTT_API.DeleteUI.resources
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\obj\x86\Release\SmartPTT_API.LoadForm.resources
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\obj\x86\Release\SmartPTT_API.MainForm.resources
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\obj\x86\Release\SmartPTT_API.ModifyUser.resources
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\obj\x86\Release\SmartPTT_API.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\obj\x86\Release\SmartPTT_API.SQLTest.resources
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\obj\x86\Release\MessengerServer.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\ClientApi.config
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\x64\Asio.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\x64\BVCodec.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\x64\lame_enc.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\x64\Setup.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\x86\Asio.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\x86\BVCodec.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\x86\lame_enc.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\x86\Setup.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\SmartPTT_API.exe
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\SmartPTT_API.pdb
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\ATSRelay.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\Audio.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\AudioConfig.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\ClientApi.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\Common.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\GZipEncoder.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\NetworkCommsDotNetComplete.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\VoCoders.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\NSpeex.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\Setup.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\BVCodec.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\NLog.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\Asio.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\License.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\ATSRelay.pdb
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\Audio.pdb
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\ClientApi.pdb
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\Common.pdb
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon\Server Version\bin\Release\NLog.xml
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\SmartPTT_API.exe.config
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\obj\x86\Release\SmartPTT_API.exe
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\obj\x86\Release\SmartPTT_API.pdb
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\ClientApi.config
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\x64\Asio.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\x64\BVCodec.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\x64\lame_enc.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\x64\Setup.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\x86\Asio.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\x86\BVCodec.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\x86\lame_enc.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\x86\Setup.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\SmartPTT_API.exe
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\SmartPTT_API.pdb
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\ATSRelay.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\Audio.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\AudioConfig.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\ClientApi.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\Common.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\GZipEncoder.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\NetworkCommsDotNetComplete.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\VoCoders.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\NSpeex.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\Setup.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\BVCodec.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\NLog.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\Asio.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\License.dll
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\ATSRelay.pdb
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\Audio.pdb
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\ClientApi.pdb
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\Common.pdb
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\bin\Release\NLog.xml
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\obj\x86\Release\MessengerServer.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\obj\x86\Release\SmartPTT_API.AddUser.resources
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\obj\x86\Release\SmartPTT_API.DeleteUI.resources
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\obj\x86\Release\SmartPTT_API.LoadForm.resources
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\obj\x86\Release\SmartPTT_API.MainForm.resources
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\obj\x86\Release\SmartPTT_API.ModifyUser.resources
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\obj\x86\Release\SmartPTT_API.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\obj\x86\Release\SmartPTT_API.SQLTest.resources
+C:\Users\Lenovo\Desktop\Giri\Gold Coast Messenger GUI (Current Project) - Cmodify 24516 afternoon - Copy\Server Version\obj\x86\Release\MessengerServer.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\SmartPTT_API.exe.config
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\obj\x86\Release\SmartPTT_API.exe
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\obj\x86\Release\SmartPTT_API.pdb
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\ClientApi.config
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\x64\Asio.dll
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\x64\BVCodec.dll
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\x64\lame_enc.dll
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\x64\Setup.dll
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\x86\Asio.dll
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\x86\BVCodec.dll
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\x86\lame_enc.dll
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\x86\Setup.dll
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\SmartPTT_API.exe
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\SmartPTT_API.pdb
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\ATSRelay.dll
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\Audio.dll
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\AudioConfig.dll
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\ClientApi.dll
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\Common.dll
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\GZipEncoder.dll
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\NetworkCommsDotNetComplete.dll
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\VoCoders.dll
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\NSpeex.dll
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\Setup.dll
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\BVCodec.dll
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\NLog.dll
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\Asio.dll
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\License.dll
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\ATSRelay.pdb
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\Audio.pdb
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\ClientApi.pdb
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\Common.pdb
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\NLog.xml
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\obj\x86\Release\MessengerServer.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\obj\x86\Release\SmartPTT_API.AddUser.resources
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\obj\x86\Release\SmartPTT_API.DeleteUI.resources
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\obj\x86\Release\SmartPTT_API.LoadForm.resources
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\obj\x86\Release\SmartPTT_API.MainForm.resources
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\obj\x86\Release\SmartPTT_API.ModifyUser.resources
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\obj\x86\Release\SmartPTT_API.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\obj\x86\Release\SmartPTT_API.SQLTest.resources
+C:\Users\Lenovo\Desktop\Giri\Completed Version\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\obj\x86\Release\MessengerServer.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\SmartPTT_API.exe.config
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\obj\x86\Release\SmartPTT_API.exe
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\obj\x86\Release\SmartPTT_API.pdb
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\ClientApi.config
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\x64\Asio.dll
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\x64\BVCodec.dll
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\x64\lame_enc.dll
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\x64\Setup.dll
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\x86\Asio.dll
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\x86\BVCodec.dll
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\x86\lame_enc.dll
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\x86\Setup.dll
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\SmartPTT_API.exe
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\SmartPTT_API.pdb
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\ATSRelay.dll
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\Audio.dll
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\AudioConfig.dll
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\ClientApi.dll
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\Common.dll
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\GZipEncoder.dll
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\NetworkCommsDotNetComplete.dll
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\VoCoders.dll
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\NSpeex.dll
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\Setup.dll
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\BVCodec.dll
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\NLog.dll
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\Asio.dll
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\License.dll
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\ATSRelay.pdb
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\Audio.pdb
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\ClientApi.pdb
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\Common.pdb
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\bin\Release\NLog.xml
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\obj\x86\Release\MessengerServer.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\obj\x86\Release\SmartPTT_API.MainForm.resources
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\obj\x86\Release\SmartPTT_API.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\obj\x86\Release\MessengerServer.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\obj\x86\Release\SmartPTT_API.addAndEditUserForm.resources
+C:\Users\Lenovo\Desktop\Gordan\Gold Coast Messenger GUI (Current Project) - modify User\Server Version\obj\x86\Release\SmartPTT_API.sendAndHibForm.resources
+C:\Users\Lenovo\Desktop\Gordan\modifed\Server Version\bin\Release\SmartPTT_API.exe.config
+C:\Users\Lenovo\Desktop\Gordan\modifed\Server Version\obj\x86\Release\SmartPTT_API.exe
+C:\Users\Lenovo\Desktop\Gordan\modifed\Server Version\obj\x86\Release\SmartPTT_API.pdb

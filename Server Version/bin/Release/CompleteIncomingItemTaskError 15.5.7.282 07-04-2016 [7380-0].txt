@@ -1,0 +1,6 @@
+Base Exception Type: System.Threading.ThreadAbortException: Thread was being aborted.
+   at NetworkCommsDotNet.NetworkComms.TriggerGlobalPacketHandlers(PacketHeader packetHeader, Connection connection, MemoryStream incomingDataStream, SendReceiveOptions options, Boolean ignoreUnknownPacketTypeOverride)
+   at NetworkCommsDotNet.NetworkComms.CompleteIncomingItemTask(Object itemAsObj)
+
+Stack Trace:    at NetworkCommsDotNet.NetworkComms.TriggerGlobalPacketHandlers(PacketHeader packetHeader, Connection connection, MemoryStream incomingDataStream, SendReceiveOptions options, Boolean ignoreUnknownPacketTypeOverride)
+   at NetworkCommsDotNet.NetworkComms.CompleteIncomingItemTask(Object itemAsObj)

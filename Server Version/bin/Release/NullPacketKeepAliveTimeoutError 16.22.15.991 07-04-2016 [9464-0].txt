@@ -1,0 +1,1 @@
+Base Exception Type: System.TimeoutException: Timeout after 1 seconds waiting for null packet sends to finish. 1 connection waits remain. This error indicates very high send load or a possible send deadlock.

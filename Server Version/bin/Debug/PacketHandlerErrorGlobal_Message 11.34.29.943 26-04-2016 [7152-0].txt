@@ -1,0 +1,12 @@
+Base Exception Type: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at ClientApi.Code.ServerManager.get_Item(Int32 index) in d:\Projects\MotoTRBO_Release87\ClientApi\Code\ServerManager.cs:line 161
+   at SmartPTT_API.MainForm.ProcessIncomingMessage(PacketHeader header, Connection connection, String message) in C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\MainForm.cs:line 618
+   at NetworkCommsDotNet.PacketTypeHandlerDelegateWrapper`1.Process(PacketHeader packetHeader, Connection connection, Object obj)
+   at NetworkCommsDotNet.NetworkComms.TriggerGlobalPacketHandlers(PacketHeader packetHeader, Connection connection, MemoryStream incomingDataStream, SendReceiveOptions options, Boolean ignoreUnknownPacketTypeOverride)
+
+Stack Trace:    at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at ClientApi.Code.ServerManager.get_Item(Int32 index) in d:\Projects\MotoTRBO_Release87\ClientApi\Code\ServerManager.cs:line 161
+   at SmartPTT_API.MainForm.ProcessIncomingMessage(PacketHeader header, Connection connection, String message) in C:\Users\Lenovo\Desktop\Ian's Work\Messenger GUI Phone&Radio\TCP&IP v4\Oringinal -Test Ian Version - Server Version\MainForm.cs:line 618
+   at NetworkCommsDotNet.PacketTypeHandlerDelegateWrapper`1.Process(PacketHeader packetHeader, Connection connection, Object obj)
+   at NetworkCommsDotNet.NetworkComms.TriggerGlobalPacketHandlers(PacketHeader packetHeader, Connection connection, MemoryStream incomingDataStream, SendReceiveOptions options, Boolean ignoreUnknownPacketTypeOverride)

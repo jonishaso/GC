@@ -1,0 +1,8 @@
+Comment: An unhandled exception was caught while processing a callback. Make sure to catch errors in callbacks to prevent this error file being produced.
+
+Base Exception Type: System.Threading.ThreadAbortException: Thread was being aborted.
+   at NetworkCommsDotNet.NetworkComms.CompleteIncomingItemTask(Object itemAsObj)
+   at NetworkCommsDotNet.CommsThreadPool.ThreadWorker(Object state)
+
+Stack Trace:    at NetworkCommsDotNet.NetworkComms.CompleteIncomingItemTask(Object itemAsObj)
+   at NetworkCommsDotNet.CommsThreadPool.ThreadWorker(Object state)
