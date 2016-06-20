@@ -12,7 +12,7 @@ namespace SmartPTT_API
 
     public delegate void transSendByRadio(string[] RadioID, string Message);
     public delegate void transSendByMobile(string[] phoneNO, string Message);
-    public delegate void transSendByBoth(string[] radioID, string[] phone, string Message);
+    //public delegate void transSendByBoth(string[] radioID, string[] phone, string Message);
     
     public partial class sendAndHibForm : Form
     {
@@ -25,7 +25,7 @@ namespace SmartPTT_API
 
         public event transSendByRadio SendByRadioEvent;
         public event transSendByMobile SendByMobileEvent;
-        public event transSendByBoth sendByBothEvent;
+        //public event transSendByBoth sendByBothEvent;
 
         public sendAndHibForm(DataTable t)
         {

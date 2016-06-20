@@ -30,7 +30,8 @@ namespace SmartPTT_API
             else
             {
 
-                Application.Run(new MainForm(new sql()));                
+                Application.Run(new MainForm(new sql()));
+                //Application.Run(new MainForm());
             }
 
 

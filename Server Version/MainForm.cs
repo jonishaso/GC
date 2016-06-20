@@ -17,9 +17,6 @@ using System.Net;
 using NetworkCommsDotNet;
 using System.Text.RegularExpressions;
 
-
-
-
 namespace SmartPTT_API
 {
     public partial class MainForm : Form
@@ -29,24 +26,22 @@ namespace SmartPTT_API
         private Dictionary<int, Msu> msuList;
         private BaseRsProxy rsProxy;// Very Important, this if the readio server, cne be used directlly;
 
-        sql dbConn;
+        public  sql dbConn { get; private set; }
+        private static  UDPserver server;
         private SerialPort _serialPort;
         private delegate void SetTextCallBack(string text);
-       
-        
-        string tempPort = null;
-        private bool isBusy = false;
         private string connectingRs = @"192.168.1.10:8888"; //Server IP 
-        private int controlStationID = 17475776; //Gold Coast: 18874592 WWSI: 17475776 
-        private string GSM_Port = "COM6"; // GSM port setting; WWSI: "COM4", Gold Coast: "COM1", com6 at gc com5
+        private const int controlStationID = 17475776; //Gold Coast: 18874592 WWSI: 17475776 
+        private const string GSM_Port = "COM6"; // GSM port setting; WWSI: "COM4", Gold Coast: "COM1", com6 at gc com5
 
         #endregion Properties
-        
+
         public MainForm(sql conn)
         {
             dbConn = conn;
-            InitializeComponent();                                       
-        }       
+            InitializeComponent();
+        }
+
         #region Form events
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -58,16 +53,17 @@ namespace SmartPTT_API
             BaseRsProxy.McsDisconnected += BaseRsProxyOnMcsDisconnected;
             dataGridView.DataSource = dbConn.selectRow().Tables["users"];
             connectRadioServer();          
-            sqlMonitor monitor = new sqlMonitor(this);// enable to watch changes occuring on db for communicatation popurse
+            // sqlMonitor monitor = new sqlMonitor(this);// enable to watch changes occuring on db for communicatation popurse
+            server = new UDPserver(this);
+            server.startReceive();
         }        
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
-        {
+        {      
             ClientDispatcher.Stop();
         }
         #endregion Form events
         #region Interface element events
-
         private void treeRadioObjects_AfterSelect(object sender, TreeViewEventArgs e)
         {
             //labelSelectInfo.Text = e.Node == null ? "" : e.Node.Text;
@@ -83,8 +79,7 @@ namespace SmartPTT_API
             {
                 MessageBox.Show(string.Format("{0}",ourRadioserver.Address));
             }
-        }
-        
+        }   
         #endregion Interface element events
         #region API events
         private delegate void DelegateSetMcsList(BaseRsProxy rsProxy, RsConnectEventArgs e);
@@ -101,7 +96,7 @@ namespace SmartPTT_API
             BaseRsProxy rsProxy = sender as BaseRsProxy;
             if (rsProxy == null)
                 return;
-            connectingRs = "";
+            //connectingRs = "";
             if (treeRadioObjects.InvokeRequired)
                 treeRadioObjects.Invoke(new DelegateSetMcsList(SetMcsList), rsProxy, e);
             else
@@ -157,7 +152,6 @@ namespace SmartPTT_API
         private void SetMcsList(BaseRsProxy rsProxy, RsConnectEventArgs e)
         {
             ClearMcsList(rsProxy);
-            consoleBox.AppendText("Active SQL listening \n");
             consoleBox.AppendText(rsProxy.Name + @" is connected"+'\n');
             foreach (BaseMcsProxy mcsProxy in rsProxy.BaseMcsList.Values.Where(mcsProxy => mcsProxy.IsConnected))
             {
@@ -313,15 +307,16 @@ namespace SmartPTT_API
             }
             catch (Exception ex)
             {
-                connectingRs = "";
-                consoleBox.AppendText(ex.Message);
+                //connectingRs = "";
+                consoleBox.AppendText(ex.Message + "\n");
+                consoleBox.AppendText("ubabel to connect redio server, error: mainform.connectRadioServer");
                 return;
             }
             consoleBox.AppendText(@"Connecting..." + '\n');
         }
         //Sending message through GSM - you have to use AT command to control GSM
         //Note: You have to make sure you have a correct COM port and Bauld Rate.
-        public void sendSMS(string message, string number)
+        public void sendSMS(string number,string message)
         {
             _serialPort = new SerialPort(GSM_Port, 115200);
             Thread.Sleep(100);
@@ -461,8 +456,13 @@ namespace SmartPTT_API
             sendAndHibForm f3 = new sendAndHibForm(newTable);
             f3.SendByRadioEvent += sendThroughRadio;
             f3.SendByMobileEvent += sendThroughMobile;
-            f3.sendByBothEvent += sendThroughBoth;
+            //f3.sendByBothEvent += sendThroughBoth;
             f3.Show();
+        }
+
+        private void connectContralStation_Click(object sender, EventArgs e)
+        {
+            connectRadioServer();
         }
     }
 }

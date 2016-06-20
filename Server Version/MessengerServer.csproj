@@ -139,6 +139,7 @@
     </Compile>
     <Compile Include="sql.cs" />
     <Compile Include="sqlMonitor.cs" />
+    <Compile Include="UDPserver.cs" />
     <EmbeddedResource Include="addAndEditUserForm.resx">
       <DependentUpon>addAndEditUserForm.cs</DependentUpon>
     </EmbeddedResource>

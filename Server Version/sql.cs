@@ -42,8 +42,8 @@ namespace SmartPTT_API
 
         public sql()
         {
-            //string connString = @"Data Source=.\GG;Database=GG;User ID=sa;password=wwsi123";
-            string connString = @"Data Source=LENOVO-PC\SQLEXPRESS;Initial Catalog=Clients;Integrated Security=True;Connect Timeout=15;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+            string connString = @"Data Source=.\GG;Database=GG;User ID=sa;password=wwsi123";
+            //string connString = @"Data Source=LENOVO-PC\SQLEXPRESS;Initial Catalog=Clients;Integrated Security=True;Connect Timeout=15;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
 
             conn = new SqlConnection(connString);
         }
